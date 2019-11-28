@@ -10,3 +10,6 @@ The electronics will be realized using an [ATMEGA32U4](http://www.atmel.com/devi
 
 Code based on [Teensy sample USB HID code](https://www.pjrc.com/teensy/usb_keyboard.html). Public Domain.
 
+## Setup
+
+Use the `Arduino Library Manager` to install `HID-Project` by `NicoHood`.
